@@ -96,8 +96,3 @@ https://github.com/user-attachments/assets/5fe2d0c3-1f05-498e-a094-b3b392aeedea
 - 데이터는 파일에 저장되어 재실행 시에도 유지됩니다.
 
 ---  
-
-
-
----
-
