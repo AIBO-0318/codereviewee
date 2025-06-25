@@ -63,6 +63,14 @@ https://github.com/user-attachments/assets/ae59ff57-f0b2-4746-a129-be2fdb974311
 
 ---
 
+
+
+---
+
+https://github.com/user-attachments/assets/5fe2d0c3-1f05-498e-a094-b3b392aeedea
+
+---
+
 ## 💻 실행 방법
 
 1. Java가 설치되어 있는 환경에서 콘솔을 엽니다.
