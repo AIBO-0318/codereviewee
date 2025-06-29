@@ -81,9 +81,7 @@ JDK 17 이상
 
 패키지 구조
 
-
-
-
+📦 src
 ┣ 📁 app
 ┃ ┣ 📄 MyAppReader.java
 ┃ ┗ 📄 RecordMartConsoleApp.java
@@ -130,9 +128,6 @@ JDK 17 이상
 ┃ ┗ 📄 RentVO.java
 ┣ 📁 rent.file
 ┃ ┗ 📄 ObjFileHashMapRentDAO.java
-
-
-
 
 ---
 
