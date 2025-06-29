@@ -36,3 +36,42 @@ JDK 17 이상
 
 요구사항 명세서
 
+### 시스템 환경 요구사항
+
+![시스템 환경 요구사항](images/sys-env.png)
+
+---
+
+### 기능 요구사항 요약
+
+![기능 요구사항 요약](images/feature-summary.png)
+
+---
+
+### 기능 상세 - 음반
+
+![기능 요구사항 - 음반](images/record-detail.png)
+
+---
+
+### 기능 상세 - 사용자
+
+![기능 요구사항 - 사용자](images/user-detail.png)
+
+---
+
+### 기능 상세 - 주문
+
+![기능 요구사항 - 주문](images/order-detail.png)
+
+---
+
+### 기능 상세 - 장바구니
+
+![기능 요구사항 - 장바구니](images/cart-detail.png)
+
+---
+
+### 비기능 요구사항 - 데이터
+
+![비기능 요구사항 - 데이터](images/data-nonfunc.png)
