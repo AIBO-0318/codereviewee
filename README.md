@@ -144,6 +144,22 @@ JDK 17 이상
 
 시연 영상
 
+회원
+
+
+
+https://github.com/user-attachments/assets/c1176e7b-b6fc-4d27-bc86-25fcd7398eb2
+
+
+
+관리자
+
+
+
+https://github.com/user-attachments/assets/645dd8f9-990b-42a1-8e40-cfbe8f0db375
+
+
+
 ---
 
 코드 리뷰
