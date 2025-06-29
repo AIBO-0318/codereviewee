@@ -3,8 +3,8 @@
 1. 프로젝트 선정 이유
 2. 개발 환경
 3. 요구사항 명세서
-4. 유스케이스 다이어그램
-5. 패키지 구조
+4. 패키지 구조
+5. 유스케이스 다이어그램
 6. 클래스 다이어그램
 7. 시연 영상
 8. 코드 리뷰
@@ -75,3 +75,61 @@ JDK 17 이상
 
 시스템 환경
 ![요구사항 명세](images/화면%20캡처%202025-06-29%20143303.png)
+
+
+---
+
+패키지 구조
+
+┣ 📁 app
+┃ ┣ 📄 MyAppReader.java
+┃ ┗ 📄 RecordMartConsoleApp.java
+┣ 📁 cart
+┃ ┣ 📄 CartDAO.java
+┃ ┣ 📄 CartItemVO.java
+┃ ┣ 📄 CartService.java
+┃ ┣ 📄 CartServiceImpl.java
+┃ ┗ 📄 HashMapCartDAO.java
+┣ 📁 member
+┃ ┣ 📄 FileMemberDB.java
+┃ ┣ 📄 HashMapMemberDAO.java
+┃ ┣ 📄 HJMemberService.java
+┃ ┣ 📄 MemberDAO.java
+┃ ┣ 📄 MemberService.java
+┃ ┣ 📄 MemberServiceImpl.java
+┃ ┣ 📄 MemberVO.java
+┃ ┗ 📄 ObjFileHashMapMemberDAO.java
+┣ 📁 member.file
+┃ ┗ 📄 TextFileHashMapMemberDAO.java
+┣ 📁 order
+┃ ┣ 📄 ObjFileHashMapOrderDAO.java
+┃ ┣ 📄 OrderDAO.java
+┃ ┣ 📄 OrderItemVO.java
+┃ ┣ 📄 OrderService.java
+┃ ┣ 📄 OrderServiceImpl.java
+┃ ┗ 📄 OrderVO.java
+┣ 📁 record
+┃ ┣ 📄 HashMapRecordDAO.java
+┃ ┣ 📄 ListRecordDAO.java
+┃ ┣ 📄 RecordDAO.java
+┃ ┣ 📄 RecordService.java
+┃ ┣ 📄 RecordServiceImpl.java
+┃ ┗ 📄 RecordVO.java
+┣ 📁 record.file
+┃ ┣ 📄 FileRecordDB.java
+┃ ┣ 📄 ObjFileHashMapRecordDAO.java
+┃ ┗ 📄 TextFileHashMapRecordDAO.java
+┣ 📁 rent
+┃ ┣ 📄 HashMapRentDAO.java
+┃ ┣ 📄 RentDAO.java
+┃ ┣ 📄 RentService.java
+┃ ┣ 📄 RentServiceImpl.java
+┃ ┗ 📄 RentVO.java
+┣ 📁 rent.file
+┃ ┗ 📄 ObjFileHashMapRentDAO.java
+
+---
+
+유스케이스 다이어그램
+
+![유스케이스](images/화면%20캡처%202025-06-29%20145042.png)
